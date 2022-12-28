@@ -8,7 +8,7 @@ I'm a front-end developer with 6+ years of experience designing, engineering, ma
 
 * 🏡 I'm based in Omaha, Nebraska
 * 🚀 I'm currently working on creating an open-source, documentation and blog starter template using the static-site generator, Docusaurus 2.0. I'm an advocate for learning in pubic. You can learn more on my personal documentation and blog site: [patrickjohnstevens.com](http://patrickjohnstevens.com).
-* 👨🏻‍💻 I'm exploring, learning, and practicing frameworks React/Remix and Svelte/Kit, TypeScript, and Tailwind CSS
+* 👨🏻‍💻 I'm exploring, learning, and practicing React/Remix and Svelte/Kit, TypeScript, and Tailwind CSS
 
 ### Skills
 
